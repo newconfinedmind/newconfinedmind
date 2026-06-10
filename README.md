@@ -2,6 +2,8 @@
 
 AI 기능을 실제 서비스로 빠르게 만들고, 웹 애플리케이션, 인프라, 데이터베이스, 결제, 광고 유입까지 직접 다룹니다. 최근에는 공장 기계 프리셋을 음성/채팅으로 만들고 선택하는 SaaS인 boxfold에 집중하고 있습니다.
 
+Full portfolio and technical preferences: [PORTFOLIO.md](./PORTFOLIO.md)
+
 ## Focus
 
 - AI tool calling, STT/TTS, LLM 기반 업무 도구
